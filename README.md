@@ -9,7 +9,7 @@ Recent advancements in machine learning, natural language processing, and comput
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/week-10-g5/Automated-Storyboard-Synthesis-for-Digital-Advertising
+git clone git@github.com:derejehinsermu/Automated-Storyboard-Ad-Generator.git
 
 ```
 2. Navigate to the project directory:
