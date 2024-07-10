@@ -15,7 +15,7 @@ git clone git@github.com:derejehinsermu/Automated-Storyboard-Ad-Generator.git
 2. Navigate to the project directory:
 
 ```
-cd Automated-Storyboard-Synthesis-for-Digital-Advertising
+cd Automated-Storyboard-Ad-Generator
 ```
 
 3. Install the required Python packages
